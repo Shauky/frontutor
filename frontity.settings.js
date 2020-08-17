@@ -1,5 +1,5 @@
 const settings = {
-  "name": "tutorcast",
+  "name": "tutorcast prod",
   "state": {
     "frontity": {
       "url": "https://www.tutorcast.xyz",
