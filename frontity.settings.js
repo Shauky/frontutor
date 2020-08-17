@@ -41,7 +41,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "api": "https://tutorcastxyz.wordpress.com/wp-json"
+          "api": "https://raw.githubusercontent.com/Shauky/frontutor/master/build/posts/wp-json"
         }
       }
     },
