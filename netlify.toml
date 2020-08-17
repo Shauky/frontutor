@@ -1,0 +1,13 @@
+[build]
+  command = "npx frontity build"
+  functions = "functions"
+  publish = "build"
+
+[dev]
+  framework = "#custom"
+  command = "npx frontity dev"
+  targetPort = 3000
+  port = 8888
+  publish = "build"
+  jwtRolePath = "app_metadata.authorization.roles"
+  autoLaunch = true
