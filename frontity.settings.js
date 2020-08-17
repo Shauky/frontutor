@@ -2,7 +2,7 @@ const settings = {
   "name": "tutorcast",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.org",
+      "url": "https://www.tutorcast.xyz",
       "title": "TutorCast on Frontity",
       "description": " Powered for Frontity development"
     }
