@@ -41,7 +41,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "api": "http://blogs.harvard.edu/techproducts/wp-json"
+          "api": "https://blogs.harvard.edu/techproducts/wp-json"
         }
       }
     },
