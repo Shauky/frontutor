@@ -41,7 +41,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "api": "https://raw.githubusercontent.com/Shauky/frontutor/master/build/posts/wp-json"
+          "api": "https://41560408-e39b-465d-923b-f3761d5dc36a.app.getshifter.io:29190/wp-json"
         }
       }
     },

@@ -2,14 +2,14 @@
   "errors": [],
   "warnings": [],
   "version": "4.44.1",
-  "hash": "aeb8d3bc1d8e36f30c03",
+  "hash": "1a857fde240c978665a8",
   "publicPath": "/static/",
   "outputPath": "/home/fiuna/tutorcast/build/static",
   "assetsByChunkName": {
     "archive": "archive.module.js",
     "archive~post": "archive~post.module.js",
     "post": "post.module.js",
-    "tutorcast": "tutorcast.module.js"
+    "tutorcast prod": "tutorcast prod.module.js"
   },
   "assets": [
     {
@@ -121,13 +121,13 @@
       "emitted": false
     },
     {
-      "name": "tutorcast.module.js",
-      "size": 5800991,
+      "name": "tutorcast prod.module.js",
+      "size": 5801058,
       "chunks": [
-        "tutorcast"
+        "tutorcast prod"
       ],
       "chunkNames": [
-        "tutorcast"
+        "tutorcast prod"
       ],
       "info": {},
       "emitted": false
@@ -135,24 +135,24 @@
   ],
   "filteredAssets": 0,
   "entrypoints": {
-    "tutorcast": {
+    "tutorcast prod": {
       "chunks": [
-        "tutorcast"
+        "tutorcast prod"
       ],
       "assets": [
-        "tutorcast.module.js"
+        "tutorcast prod.module.js"
       ],
       "children": {},
       "childAssets": {}
     }
   },
   "namedChunkGroups": {
-    "tutorcast": {
+    "tutorcast prod": {
       "chunks": [
-        "tutorcast"
+        "tutorcast prod"
       ],
       "assets": [
-        "tutorcast.module.js"
+        "tutorcast prod.module.js"
       ],
       "children": {},
       "childAssets": {}
